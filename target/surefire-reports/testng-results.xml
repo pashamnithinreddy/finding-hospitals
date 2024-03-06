@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-06T14:45:25 IST" name="Suite" finished-at="2024-03-06T14:47:04 IST" duration-ms="99685">
+    <groups>
+    </groups>
+    <test started-at="2024-03-06T14:45:25 IST" name="Test" finished-at="2024-03-06T14:47:04 IST" duration-ms="99685">
+      <class name="AllTestcases.TestCases">
+        <test-method is-config="true" signature="Browserlaunch(java.lang.String,java.lang.String)[pri:0, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:45:26 IST" name="Browserlaunch" finished-at="2024-03-06T14:45:47 IST" duration-ms="21317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserlaunch -->
+        <test-method signature="verify_url()[pri:1, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:45:47 IST" name="verify_url" finished-at="2024-03-06T14:45:48 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_url -->
+        <test-method signature="verify_select1()[pri:2, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:45:48 IST" name="verify_select1" finished-at="2024-03-06T14:45:56 IST" duration-ms="8072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_select1 -->
+        <test-method signature="verify_select2()[pri:3, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:45:56 IST" name="verify_select2" finished-at="2024-03-06T14:46:03 IST" duration-ms="7051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_select2 -->
+        <test-method signature="verify_select3()[pri:4, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:03 IST" name="verify_select3" finished-at="2024-03-06T14:46:16 IST" duration-ms="12949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_select3 -->
+        <test-method signature="verify_doc_list()[pri:5, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:16 IST" name="verify_doc_list" finished-at="2024-03-06T14:46:33 IST" duration-ms="17565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_doc_list -->
+        <test-method signature="verify_surg_list()[pri:6, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:33 IST" name="verify_surg_list" finished-at="2024-03-06T14:46:38 IST" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_surg_list -->
+        <test-method signature="verify_clickforCorp()[pri:7, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:38 IST" name="verify_clickforCorp" finished-at="2024-03-06T14:46:44 IST" duration-ms="5873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_clickforCorp -->
+        <test-method signature="verify_button1()[pri:8, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:44 IST" name="verify_button1" finished-at="2024-03-06T14:46:49 IST" duration-ms="5958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_button1 -->
+        <test-method signature="verify_button2()[pri:9, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:49 IST" name="verify_button2" finished-at="2024-03-06T14:46:53 IST" duration-ms="3408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_button2 -->
+        <test-method signature="verify_button3()[pri:10, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:53 IST" name="verify_button3" finished-at="2024-03-06T14:46:58 IST" duration-ms="5441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_button3 -->
+        <test-method signature="verify_button4()[pri:11, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:46:58 IST" name="verify_button4" finished-at="2024-03-06T14:47:03 IST" duration-ms="4244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_button4 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:AllTestcases.TestCases@18078bef]" started-at="2024-03-06T14:47:03 IST" name="closeBrowser" finished-at="2024-03-06T14:47:04 IST" duration-ms="1899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- AllTestcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

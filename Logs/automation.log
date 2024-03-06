@@ -1,0 +1,8 @@
+14:46:16.123 [main] INFO  AllTestcases.TestCases - Applied Filters
+14:46:33.708 [main] INFO  AllTestcases.TestCases - Doctors List is Printed
+14:46:38.127 [main] INFO  AllTestcases.TestCases - Surgeries list is printed
+14:46:44.004 [main] INFO  AllTestcases.TestCases - clicked on for corporates
+14:46:49.971 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:46:53.384 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:46:58.829 [main] INFO  AllTestcases.TestCases - Button is not enabled
+14:47:03.074 [main] INFO  AllTestcases.TestCases - Button is enabled and thank you message is displayed

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="AllTestcases.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="AllTestcases.TestCases">
+        <methods>
+          <include name="verify_button4"/>
+          <include name="verify_doc_list"/>
+          <include name="verify_select3"/>
+          <include name="verify_button1"/>
+          <include name="verify_select2"/>
+          <include name="verify_button2"/>
+          <include name="verify_url"/>
+          <include name="verify_button3"/>
+          <include name="Browserlaunch"/>
+          <include name="verify_surg_list"/>
+          <include name="verify_clickforCorp"/>
+          <include name="closeBrowser"/>
+          <include name="verify_select1"/>
+        </methods>
+      </class> <!-- AllTestcases.TestCases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
